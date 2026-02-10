@@ -9,7 +9,7 @@ console.log(data.value);
 </script>
 <template>
   <div>
-    <h2></h2>
+    <h2>TESSTTT</h2>
     <h3>Competition Auto M x Drive</h3>
     <h4>$202,500</h4>
     <img src="/NFSUB_Garage_McLaren_F11993.webp" alt="BWM M4 GTS" />
